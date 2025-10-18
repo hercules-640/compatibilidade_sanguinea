@@ -1,4 +1,5 @@
-package com.herculesestacio.compatibilidade.ui
+package com.herculesestacio.compatibilidade
+
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
